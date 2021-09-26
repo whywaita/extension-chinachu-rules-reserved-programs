@@ -1,0 +1,17 @@
+{
+  "name": "extension-chinachu-rules-reserved-programs",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/whywaita/extension-chinachu-rules-reserved-programs",
+  "author": "whywaita",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.54.0",
+    "webpack-cli": "^4.8.0"
+  }
+}
